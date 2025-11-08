@@ -37,7 +37,7 @@ This paper pioneers a novel approach to economic and public policy analysis by l
 ## Working Papers
 
 ### Rewiring Opportunity: How Improved Internet Infrastructure Reduces Intra-City Income Inequality in China
-*   **Authors:** Yanlin Wan, Xu Zhang, Yuzhi HAO, Aoqing Lyu, Masaru Yarime
+*   **Authors:** Yanlin Wan, Xu Zhang, Yuzhi Hao, Aoqing Lyu, Masaru Yarime
 *   **Status:** Submitted
 *   Draft available upon request
 
@@ -45,7 +45,7 @@ This paper pioneers a novel approach to economic and public policy analysis by l
 This study investigates the impact of enhanced internet infrastructure on intra-city income inequality in China. Employing a staggered difference-in-differences methodology, our analysis reveals that the Broadband China Strategic Program from 2014 to 2016 resulted in a notable reduction in the income Gini coefficients of the demonstration cities, with substantial income gains among low- and middle-income households. We argue that the improved internet infrastructure mitigated income inequality mainly by creating new employment opportunities in the service sector for low-skilled workers. Our findings underscore the pivotal role of technology in fostering inclusive economic growth and provide valuable insights for policymakers seeking to harness investments in internet infrastructure and improve social equality in developing countries.
 
 ### Bridging the Treatment Gap in Mental Healthcare: Evidence from China
-*   **Authors:** Yanlin Wan, Yuzhi HAO, Xu Zhang
+*   **Authors:** Yanlin Wan, Yuzhi Hao, Xu Zhang
 *   Draft available upon request
 
 **Abstract:**
@@ -56,7 +56,7 @@ We evaluate a large-scale, nationwide policy in China that aimed to improve popu
 ## Selected Works in Progress
 
 ### Evaluating Large Language Models as Households: Evidence from China Family Panel Studies
-*   **Authors:** Yuzhi HAO and Danyang XIE
+*   **Authors:** Yuzhi Hao and Danyang Xie
 
 **Summary:**
 Evaluates LLMs’ ability to replicate household expenditure decisions using a role-playing framework with CFPS data, comparing model predictions against actual survey responses through distributional analysis and household-level accuracy metrics, with implications for calibrating LLM-based agents in macro models.
